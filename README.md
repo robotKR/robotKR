@@ -6,7 +6,7 @@ Developing an ideal life partner
 ## Fields of interest:
 Artificial intelligence, Robotics, Human–robot interaction
 
-## Skill
+## Skills
 ![Tech Stack](https://skillicons.dev/icons?i=python,c,unity)
 
 *Reconstructing humans with technology*
