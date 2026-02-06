@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-## Goal:
+## Goal
 Developing an ideal life partner
 
-## Fields of interest:
+## Fields of interest
 Artificial intelligence, Robotics, Human–robot interaction
 
-## Skills:
+## Skills
 ![Tech Stack](https://skillicons.dev/icons?i=python,c,unity)
 
 *Reconstructing humans with technology*
