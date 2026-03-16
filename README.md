@@ -4,7 +4,7 @@
 Developing an ideal life partner
 
 ## Fields of interest
-Artificial intelligence, Robotics, Human–robot interaction, cognitive science, philosophy
+Artificial intelligence, Robotics, Human–robot interaction, Cognitive science, Philosophy
 
 ## Skills
 ![Tech Stack](https://skillicons.dev/icons?i=python,c,unity)
