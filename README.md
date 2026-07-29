@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Goal
-Developing an ideal life partner
+Building the cognitive architecture for philosophical zombies.
 
 ## Fields of interest
 Artificial intelligence, Robotics, Human–robot interaction, Cognitive science
